@@ -1,0 +1,142 @@
+[
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=dramaid.asia&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 21159,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "Movie"
+        ],
+        "version": 10,
+        "internalName": "Dramaid",
+        "description": "Include: Oppadrama",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/Dramaid.cs3",
+        "name": "Dramaid"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=gomov.bio&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 30849,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 31,
+        "internalName": "Gomov",
+        "description": "Includes: DutaMovie, Ngefilm, Nodrakorid, Pusatfilm",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/Gomov.cs3",
+        "name": "Gomov"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=amp.lk21official.mom&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 19416,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AsianDrama",
+            "TvSeries",
+            "Movie"
+        ],
+        "version": 20,
+        "internalName": "LayarKaca",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/LayarKaca.cs3",
+        "name": "LayarKaca"
+    },
+    {
+        "iconUrl": "https://missav.com/missav/logo-square.png",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 10192,
+        "status": 1,
+        "language": "en",
+        "authors": [
+            "luck731"
+        ],
+        "tvTypes": [
+            "NSFW"
+        ],
+        "version": 2,
+        "internalName": "MissAV",
+        "description": "Best Japan AV porn site, free forever, high speed, no lag, over 100,000 videos, daily update, no ads while playing video.",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/MissAV.cs3",
+        "name": "MissAV"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=oploverz.care&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 15456,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 30,
+        "internalName": "Oploverz",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/Oploverz.cs3",
+        "name": "Oploverz"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=otakudesu.watch&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 21122,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "Anime",
+            "OVA"
+        ],
+        "version": 16,
+        "internalName": "Otakudesu",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/Otakudesu.cs3",
+        "name": "Otakudesu"
+    },
+    {
+        "iconUrl": "https://www.google.com/s2/favicons?domain=https://samehadaku.world&sz=%size%",
+        "apiVersion": 1,
+        "repositoryUrl": "https://github.com/raonsama/cs-repo",
+        "fileSize": 16121,
+        "status": 1,
+        "language": "id",
+        "authors": [
+            "Hexated"
+        ],
+        "tvTypes": [
+            "AnimeMovie",
+            "OVA",
+            "Anime"
+        ],
+        "version": 22,
+        "internalName": "Samehadaku",
+        "url": "https://raw.githubusercontent.com/raonsama/cs-repo/builds/Samehadaku.cs3",
+        "name": "Samehadaku"
+    }
+]
