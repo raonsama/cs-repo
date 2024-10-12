@@ -46,7 +46,7 @@ open class Hownetwork : ExtractorApi() {
         val res = app.post(
                 "$mainUrl/api.php?id=$id",
                 data = mapOf(
-                        "r" to "https://playeriframe.shop/",
+                        "r" to "https://playeriframe.lol/",
                         "d" to "stream.hownetwork.xyz",
                 ),
                 referer = url,
