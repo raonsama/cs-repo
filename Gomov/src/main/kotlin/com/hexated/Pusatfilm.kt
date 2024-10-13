@@ -11,7 +11,9 @@ class Pusatfilm : Gomov() {
 
     override var name = "Pusatfilm"
     override val mainPage = mainPageOf(
+        "trending/page/%d/" to "Trending",
         "film-terbaru/page/%d/" to "Film Terbaru",
+        "country/philippines/page/%d/" to "Film Philippines",
         "series-terbaru/page/%d/" to "Series Terbaru",
         "series-netflix/page/%d/" to "Series Netflix",
         "drama-korea/page/%d/" to "Drama Korea",

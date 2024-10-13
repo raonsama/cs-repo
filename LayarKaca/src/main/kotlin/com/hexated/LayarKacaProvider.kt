@@ -28,6 +28,9 @@ class LayarKacaProvider : MainAPI() {
             "$seriesUrl/latest-series/page/" to "Series Terbaru",
             "$seriesUrl/series/asian/page/" to "Film Asian Terbaru",
             "$mainUrl/latest/page/" to "Film Upload Terbaru",
+            "$seriesUrl/country/china/page/" to "Drama China",
+            "$seriesUrl/country/south-korea/page/" to "Drama Korea",
+            "$seriesUrl/series/west/page/" to "Drama West",
     )
 
     override suspend fun getMainPage(
